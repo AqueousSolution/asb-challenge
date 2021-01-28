@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/asb-challenge/static/css/main.fdb216f4.chunk.css",
+    "main.js": "/asb-challenge/static/js/main.cdd37767.chunk.js",
+    "main.js.map": "/asb-challenge/static/js/main.cdd37767.chunk.js.map",
+    "runtime-main.js": "/asb-challenge/static/js/runtime-main.3191f5a5.js",
+    "runtime-main.js.map": "/asb-challenge/static/js/runtime-main.3191f5a5.js.map",
+    "static/js/2.3650bac5.chunk.js": "/asb-challenge/static/js/2.3650bac5.chunk.js",
+    "static/js/2.3650bac5.chunk.js.map": "/asb-challenge/static/js/2.3650bac5.chunk.js.map",
+    "static/js/3.60b63f7f.chunk.js": "/asb-challenge/static/js/3.60b63f7f.chunk.js",
+    "static/js/3.60b63f7f.chunk.js.map": "/asb-challenge/static/js/3.60b63f7f.chunk.js.map",
+    "index.html": "/asb-challenge/index.html",
+    "static/css/main.fdb216f4.chunk.css.map": "/asb-challenge/static/css/main.fdb216f4.chunk.css.map",
+    "static/js/2.3650bac5.chunk.js.LICENSE.txt": "/asb-challenge/static/js/2.3650bac5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/asb-challenge/static/media/ProductSans-Regular.190f6362.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3191f5a5.js",
+    "static/js/2.3650bac5.chunk.js",
+    "static/css/main.fdb216f4.chunk.css",
+    "static/js/main.cdd37767.chunk.js"
+  ]
+}
